@@ -33,8 +33,13 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/codershiv2021/LeetTasks/tree/master/0151-reverse-words-in-a-string) |
+| [0812-rotate-string](https://github.com/codershiv2021/LeetTasks/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/codershiv2021/LeetTasks/tree/master/2032-largest-odd-number-in-string) |
 # Math
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/codershiv2021/LeetTasks/tree/master/2032-largest-odd-number-in-string) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/codershiv2021/LeetTasks/tree/master/0812-rotate-string) |
