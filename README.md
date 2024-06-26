@@ -46,6 +46,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/codershiv2021/LeetTasks/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 # Hash Table
 |  |
 | ------- |
@@ -58,3 +59,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
+# Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
