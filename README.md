@@ -20,10 +20,12 @@
 # Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/codershiv2021/LeetTasks/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/codershiv2021/LeetTasks/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Two Pointers
 |  |
@@ -42,4 +44,17 @@
 # String Matching
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/codershiv2021/LeetTasks/tree/master/0812-rotate-string) |
+# Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
+# Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
