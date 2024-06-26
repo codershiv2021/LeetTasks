@@ -24,3 +24,11 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/codershiv2021/LeetTasks/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/codershiv2021/LeetTasks/tree/master/0151-reverse-words-in-a-string) |
+# String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/codershiv2021/LeetTasks/tree/master/0151-reverse-words-in-a-string) |
