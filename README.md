@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/codershiv2021/LeetTasks/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2032-largest-odd-number-in-string](https://github.com/codershiv2021/LeetTasks/tree/master/2032-largest-odd-number-in-string) |
 # Sorting
 |  |
 | ------- |
@@ -32,3 +33,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/codershiv2021/LeetTasks/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/codershiv2021/LeetTasks/tree/master/2032-largest-odd-number-in-string) |
+# Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/codershiv2021/LeetTasks/tree/master/2032-largest-odd-number-in-string) |
