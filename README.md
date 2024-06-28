@@ -27,6 +27,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/codershiv2021/LeetTasks/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/codershiv2021/LeetTasks/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Two Pointers
 |  |
 | ------- |
@@ -49,10 +50,12 @@
 | [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/codershiv2021/LeetTasks/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/codershiv2021/LeetTasks/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Hash Table
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/codershiv2021/LeetTasks/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Heap (Priority Queue)
 |  |
 | ------- |
