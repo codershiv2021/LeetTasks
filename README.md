@@ -30,6 +30,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codershiv2021/LeetTasks/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/codershiv2021/LeetTasks/tree/master/0151-reverse-words-in-a-string) |
 # String
 |  |
@@ -44,6 +45,7 @@
 # String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codershiv2021/LeetTasks/tree/master/0005-longest-palindromic-substring) |
 | [0451-sort-characters-by-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/codershiv2021/LeetTasks/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -63,3 +65,7 @@
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/codershiv2021/LeetTasks/tree/master/0005-longest-palindromic-substring) |
