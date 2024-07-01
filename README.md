@@ -72,3 +72,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codershiv2021/LeetTasks/tree/master/0005-longest-palindromic-substring) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/codershiv2021/LeetTasks/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/codershiv2021/LeetTasks/tree/master/0061-rotate-list) |
+<!---LeetCode Topics End-->
