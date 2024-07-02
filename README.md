@@ -79,6 +79,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/codershiv2021/LeetTasks/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/codershiv2021/LeetTasks/tree/master/0061-rotate-list) |
+| [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,8 +88,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codershiv2021/LeetTasks/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codershiv2021/LeetTasks/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
