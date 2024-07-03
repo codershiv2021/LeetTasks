@@ -79,11 +79,13 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/codershiv2021/LeetTasks/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/codershiv2021/LeetTasks/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/codershiv2021/LeetTasks/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
