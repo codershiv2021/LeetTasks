@@ -108,5 +108,26 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
