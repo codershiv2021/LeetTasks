@@ -1,12 +1,12 @@
 class Solution {
 public:
-bool ans = false;
+// bool ans = false;
     bool Check(int a,string st, unordered_map<string,bool>&mp
     ,vector<int>&dp){
         int n = st.size();
         string temp;
         if (a==n){
-            ans = true;
+            // ans = true;
             return true;
         }
         if (dp[a]!=-1){
