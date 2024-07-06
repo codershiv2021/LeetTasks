@@ -113,10 +113,12 @@
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
@@ -130,4 +132,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
