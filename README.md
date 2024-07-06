@@ -119,10 +119,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
