@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0216-combination-sum-iii) |
 ## String
@@ -139,10 +140,15 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0216-combination-sum-iii) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
