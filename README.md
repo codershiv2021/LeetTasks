@@ -120,12 +120,14 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 ## Trie
@@ -139,6 +141,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
