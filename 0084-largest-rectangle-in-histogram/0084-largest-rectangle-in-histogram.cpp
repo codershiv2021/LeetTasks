@@ -22,6 +22,7 @@ public:
         while(!st.empty()){
             st.pop();
         }
+        int maxi = 0;
         for (int i=n-1; i>=0; i--){
             while(!st.empty() && heights[st.top()]>=heights[i]){
                 st.pop();
@@ -32,13 +33,11 @@ public:
             else{
                 index[i].push_back(st.top());
             }
+            int len = index[i][1]-index[i][0]-1;
+            maxi = max(maxi,heights[i]*len );
             st.push(i);
         }
-        int maxi = 0;
-        for (int i=0; i<n; i++){
-            int len = index[i][1]-index[i][0]-1;
-            maxi = max(maxi,heights[i]*len);
-        }
+        
         return maxi;
     }
 };
