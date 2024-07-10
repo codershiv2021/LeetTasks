@@ -103,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/codershiv2021/LeetTasks/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/codershiv2021/LeetTasks/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0216-combination-sum-iii) |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/codershiv2021/LeetTasks/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
