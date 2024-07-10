@@ -105,6 +105,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/codershiv2021/LeetTasks/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
+| [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +162,9 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/codershiv2021/LeetTasks/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
