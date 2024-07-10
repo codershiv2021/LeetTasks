@@ -107,6 +107,7 @@
 | [0234-palindrome-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
+| [0735-asteroid-collision](https://github.com/codershiv2021/LeetTasks/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0216-combination-sum-iii) |
+| [0735-asteroid-collision](https://github.com/codershiv2021/LeetTasks/tree/master/0735-asteroid-collision) |
 ## String
 |  |
 | ------- |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/codershiv2021/LeetTasks/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
