@@ -127,6 +127,7 @@
 | [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/codershiv2021/LeetTasks/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
 ## String
@@ -193,8 +194,18 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/codershiv2021/LeetTasks/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
