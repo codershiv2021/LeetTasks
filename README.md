@@ -115,6 +115,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
@@ -131,6 +132,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/codershiv2021/LeetTasks/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
