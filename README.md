@@ -130,6 +130,7 @@
 | [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/codershiv2021/LeetTasks/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,4 +210,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
