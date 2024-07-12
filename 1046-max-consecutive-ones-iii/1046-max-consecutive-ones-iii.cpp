@@ -21,26 +21,16 @@ public:
         while(j<n){
             if (nums[j]==0){
                 cnt++;
-                maxi = max(maxi, j-i);
             }
-            //1110000 k=3
-            //110011
-            //0001000
-            //1011 000
-            //101011
-            //1010000
-            //11011
-            
             while(i<j && cnt>k){
                 if (nums[i]==0){
                     cnt--;
                 }
                 i++;
             }
-            maxi = max(maxi,j-i);
+            maxi = max(maxi,j-i+1);
             j++;
         }
-        maxi = max(maxi, j-i);
         return maxi;
     }
 };
