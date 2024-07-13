@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/codershiv2021/LeetTasks/tree/master/0225-implement-stack-using-queues) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -241,4 +243,20 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
