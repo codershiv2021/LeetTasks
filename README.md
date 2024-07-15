@@ -81,6 +81,7 @@
 | [0061-rotate-list](https://github.com/codershiv2021/LeetTasks/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -119,6 +120,7 @@
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
 ## Array
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/codershiv2021/LeetTasks/tree/master/0225-implement-stack-using-queues) |
+| [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -210,6 +213,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
