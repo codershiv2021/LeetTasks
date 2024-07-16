@@ -121,6 +121,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
+| [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
 | [0735-asteroid-collision](https://github.com/codershiv2021/LeetTasks/tree/master/0735-asteroid-collision) |
+| [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
 ## String
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
+| [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
 ## Simulation
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
+| [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
 ## Bucket Sort
 |  |
 | ------- |
