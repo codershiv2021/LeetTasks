@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codershiv2021/LeetTasks/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/codershiv2021/LeetTasks/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/0234-palindrome-linked-list) |
@@ -217,6 +218,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/codershiv2021/LeetTasks/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
@@ -237,6 +239,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -273,4 +276,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
