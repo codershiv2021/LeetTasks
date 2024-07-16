@@ -8,58 +8,64 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+//  bool cmp(ListNode* a, ListNode* b){
+//         return a->val<b->val;
+//     }
+
 class Solution {
 public:
-    static bool cmp(ListNode* headA, ListNode* headB){
-        if (!headA){
-            return false;
-        }
-        if (!headB){
-            return true;
-        }
-        return headA->val<headB->val;
+        static bool cmp(ListNode* a, ListNode* b) {
+        return a->val < b->val;
     }
-    ListNode* Merge(ListNode* head, ListNode* tempB){
-        auto Head = head;
-        ListNode* tempA = head->next;
-        while(head && tempA && tempB){
-            if (tempA->val<tempB->val){
-                head->next= tempA;
-                head = tempA;
-                tempA= tempA->next;
-            }
-            else{
-                head->next= tempB;
-                head = tempB;
-                tempB= tempB->next;
-            }
-        }
-        if (tempA){
-            head->next= tempA;
+
+    ListNode* t(ListNode* head, ListNode* mx){
+        if (!head){return mx;}
+        ListNode* mp= head;
+        ListNode* pq= mp;
+        head= head->next;
+        while (head && mx){
+        if (head->val>=mx->val){
+            mp->next= mx;
+            mp= mp->next;
+            mx= mx->next;
         }
         else{
-            head->next= tempB;
+            mp->next= head;
+            mp= mp->next;
+            head= head->next;
         }
-        return Head;
+        }
+        while (head){
+            mp->next= head;
+            mp= mp->next;
+            head= head->next;
+        }
+        while (mx){
+            mp->next= mx;
+            mp= mp->next;
+            mx= mx->next;
+        }
+        return pq;
     }
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int n = lists.size();
-        if (n==0){
+        vector<ListNode*>v;
+        for (auto i: lists){
+            if (i){
+                v.push_back(i);
+            }
+        }
+        if (v.empty()){
             return NULL;
         }
         
-        sort(lists.begin(),lists.end(),cmp);
-        if (!lists[0]){
-            return NULL;
-        }
-        auto head = lists[0];
-        
-        //all null
-        //nulls at last
-        for (int i=1; i<n; i++){
-            if (!lists[i]){continue;}
-            head = Merge(head,lists[i]);
+        sort(v.begin(),v.end(),cmp);
+        ListNode* head= v[0];
+        for (int i=1; i<v.size(); i++){
+            head= t(head,v[i]);
         }
         return head;
+
     }
 };
