@@ -23,7 +23,7 @@ public:
             if (!q.empty()){
                 int rem_time = time- q.front().second;
                 if (rem_time>n){
-                    pq.push({q.front().first,rem_time});
+                    pq.push({q.front().first,0});
                     q.pop();
                 }
             }
