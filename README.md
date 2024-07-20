@@ -129,6 +129,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codershiv2021/LeetTasks/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/codershiv2021/LeetTasks/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codershiv2021/LeetTasks/tree/master/0084-largest-rectangle-in-histogram) |
@@ -158,6 +159,7 @@
 | [0022-generate-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codershiv2021/LeetTasks/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/codershiv2021/LeetTasks/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0435-non-overlapping-intervals) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/codershiv2021/LeetTasks/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/codershiv2021/LeetTasks/tree/master/0621-task-scheduler) |
