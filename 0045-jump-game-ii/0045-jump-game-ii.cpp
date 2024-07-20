@@ -8,10 +8,10 @@ public:
             return 0;
         }
         int maxi = 0; int k = nums[0];
-        int ans= 1;
-        while(i<(n-1)){
+        int ans= 0;
+        while(i<(n)){
             maxi = max(maxi, i+nums[i]);
-            if (i==k){
+            if (i==k || i == n-1){
                 k= maxi;
                 ans++;
             }
