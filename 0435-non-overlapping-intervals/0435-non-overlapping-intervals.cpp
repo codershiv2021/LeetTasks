@@ -1,8 +1,12 @@
 class Solution {
 public:
+    static bool cmp(vector<int>v1, vector<int>v2){
+        return v1[1]<v2[1];
+    }
+
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         int n = intervals.size();
-        sort(intervals.begin(),intervals.end());
+        sort(intervals.begin(),intervals.end(),cmp);
         int i= intervals[0][0];
         int j = intervals[0][1];
         int cnt = 0;
