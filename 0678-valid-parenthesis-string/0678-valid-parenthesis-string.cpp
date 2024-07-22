@@ -27,7 +27,10 @@ public:
         //( not empty .. * empty - false
 
         
-        while(!st.empty() || !stp.empty()){
+        while(true){
+            if(st.empty()&& stp.empty()){
+                return true;
+            }
             if (!st.empty() && stp.empty()){
             return false;
             }
@@ -42,7 +45,7 @@ public:
             }
 
         }
-        return true;
+        return false;
 
 
 
