@@ -40,7 +40,7 @@ public:
             if (st.top()<stp.top()){
                 st.pop(); stp.pop();
             }
-            else if (st.top()>stp.top()){
+            else {
                 return false;
             }
 
