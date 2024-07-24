@@ -97,11 +97,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codershiv2021/LeetTasks/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/codershiv2021/LeetTasks/tree/master/0050-powx-n) |
 | [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/codershiv2021/LeetTasks/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/codershiv2021/LeetTasks/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
