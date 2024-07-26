@@ -127,6 +127,7 @@
 | [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/codershiv2021/LeetTasks/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Array
 |  |
@@ -269,6 +270,7 @@
 | [0435-non-overlapping-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/codershiv2021/LeetTasks/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Bucket Sort
 |  |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -303,4 +307,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
