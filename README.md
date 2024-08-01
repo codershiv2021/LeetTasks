@@ -316,11 +316,21 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0437-path-sum-iii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
