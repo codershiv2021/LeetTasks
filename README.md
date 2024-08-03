@@ -152,6 +152,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/codershiv2021/LeetTasks/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -320,11 +324,13 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0437-path-sum-iii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -333,4 +339,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
