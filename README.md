@@ -151,6 +151,7 @@
 | [0890-lemonade-change](https://github.com/codershiv2021/LeetTasks/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codershiv2021/LeetTasks/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## String
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codershiv2021/LeetTasks/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -330,6 +332,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codershiv2021/LeetTasks/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
