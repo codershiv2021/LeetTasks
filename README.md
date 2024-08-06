@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/codershiv2021/LeetTasks/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
@@ -160,6 +161,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/codershiv2021/LeetTasks/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/codershiv2021/LeetTasks/tree/master/0402-remove-k-digits) |
@@ -330,6 +332,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/codershiv2021/LeetTasks/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codershiv2021/LeetTasks/tree/master/1171-shortest-path-in-binary-matrix) |
