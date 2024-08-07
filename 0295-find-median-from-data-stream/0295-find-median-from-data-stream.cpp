@@ -3,7 +3,8 @@ public:
     priority_queue<int>max_heap;
     priority_queue<int,vector<int>,greater<int>>min_heap;
     MedianFinder() {}
-    //int /2 wil give int nbut double/2 - double hi give
+    //int /2 wil give int nbut double/2 - double hi give or below ko do
+    // .../2 ke badle .../2.0
     
     void addNum(int num) {
         max_heap.push(num);
@@ -13,13 +14,15 @@ public:
         }
         if (!max_heap.empty()&&!min_heap.empty()&&
             max_heap.top()>min_heap.top()){
-            min_heap.push(max_heap.top());
-            max_heap.pop();
+                int Topa = max_heap.top(); max_heap.pop();
+                int Topb = min_heap.top(); min_heap.pop();
+                max_heap.push(Topb);
+                min_heap.push(Topa);
         }
-        if(min_heap.size() > max_heap.size()+1) {
-            max_heap.push(min_heap.top());
-            min_heap.pop();
-        }
+        // if(min_heap.size() > max_heap.size()+1) {
+        //     max_heap.push(min_heap.top());
+        //     min_heap.pop();
+        // }
         return;
     }
     
