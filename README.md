@@ -127,6 +127,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/codershiv2021/LeetTasks/tree/master/0355-design-twitter) |
+| [0560-subarray-sum-equals-k](https://github.com/codershiv2021/LeetTasks/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/codershiv2021/LeetTasks/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -148,6 +149,7 @@
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/codershiv2021/LeetTasks/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/codershiv2021/LeetTasks/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/codershiv2021/LeetTasks/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
@@ -272,6 +274,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/codershiv2021/LeetTasks/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
