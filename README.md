@@ -155,6 +155,7 @@
 | [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/codershiv2021/LeetTasks/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/codershiv2021/LeetTasks/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codershiv2021/LeetTasks/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -184,6 +185,7 @@
 | [0518-coin-change-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/codershiv2021/LeetTasks/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/codershiv2021/LeetTasks/tree/master/0967-minimum-falling-path-sum) |
 ## Trie
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/codershiv2021/LeetTasks/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
+| [0967-minimum-falling-path-sum](https://github.com/codershiv2021/LeetTasks/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codershiv2021/LeetTasks/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
