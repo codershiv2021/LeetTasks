@@ -1,37 +1,44 @@
 class Solution {
 public:
-    vector<vector<string>>ans;
-    bool ispal(string st){
-        int n = st.size();
-        bool check= 1;
-        for (int i=0; i<n/2; i++){
-            if (st[i]!=st[n-i-1]){
-                check = 0;
-            }
-        }
-        return check;
-    }
-    void T(int ind,string s,vector<string>&v){
-        int n = s.size();
-        if (ind==n){
-            ans.push_back(v);
+    vector<vector<string>>v;
+    void T(vector<string>&temp,int i, string s,
+    vector<vector<bool>>dp, int n ){
+        if (i>=n){
+            v.push_back(temp);
             return;
         }
-        string st;
-        for (int i= ind; i<n; i++){
-            st.push_back(s[i]);
-            if (ispal(st)){
-                v.push_back(st);
-                T(i+1,s,v);
-                v.pop_back();
+        for (int ind = i; ind<n; ind++){
+            if (dp[i][ind]){
+                string tempo = s.substr(i,ind-i+1);
+                temp.push_back(tempo);
+                T(temp,ind+1,s,dp,n);
+                temp.pop_back();
             }
+
         }
         return;
     }
 
     vector<vector<string>> partition(string s) {
-        vector<string>v;
-        T(0,s,v);
-        return ans;
+        int n = s.size();
+        vector<vector<bool>>dp(n+1,vector<bool>(n+1,0));
+        for (int i=0; i<n; i++){
+            for (int j=0; j<=i; j++){
+                if (i==j){
+                    dp[j][i]= 1;
+                }
+                else if (i-j==1 && s[i]==s[j]){
+                    dp[j][i]=1;
+                }
+                else if (s[i]==s[j]){
+                    dp[j][i]= dp[j+1][i-1];
+                }
+            }
+        }
+        vector<string>nnn;
+        T(nnn,0,s,dp,n);
+        return v;
+
+
     }
 };
