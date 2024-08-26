@@ -117,6 +117,7 @@
 | [0445-add-two-numbers-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/codershiv2021/LeetTasks/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/codershiv2021/LeetTasks/tree/master/0735-asteroid-collision) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/codershiv2021/LeetTasks/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
@@ -313,6 +314,7 @@
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0437-path-sum-iii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/codershiv2021/LeetTasks/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -341,6 +343,7 @@
 | [0207-course-schedule](https://github.com/codershiv2021/LeetTasks/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/codershiv2021/LeetTasks/tree/master/0437-path-sum-iii) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/codershiv2021/LeetTasks/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
