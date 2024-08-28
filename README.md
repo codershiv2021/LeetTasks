@@ -138,6 +138,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codershiv2021/LeetTasks/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/codershiv2021/LeetTasks/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/codershiv2021/LeetTasks/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/codershiv2021/LeetTasks/tree/master/0064-minimum-path-sum) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/codershiv2021/LeetTasks/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
