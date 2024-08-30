@@ -93,6 +93,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0295-find-median-from-data-stream) |
+| [1019-squares-of-a-sorted-array](https://github.com/codershiv2021/LeetTasks/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/codershiv2021/LeetTasks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -159,6 +160,7 @@
 | [0890-lemonade-change](https://github.com/codershiv2021/LeetTasks/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/codershiv2021/LeetTasks/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/codershiv2021/LeetTasks/tree/master/0967-minimum-falling-path-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/codershiv2021/LeetTasks/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/codershiv2021/LeetTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codershiv2021/LeetTasks/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -298,6 +300,7 @@
 | [0435-non-overlapping-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/codershiv2021/LeetTasks/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/codershiv2021/LeetTasks/tree/master/0876-hand-of-straights) |
+| [1019-squares-of-a-sorted-array](https://github.com/codershiv2021/LeetTasks/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/codershiv2021/LeetTasks/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/codershiv2021/LeetTasks/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Bucket Sort
