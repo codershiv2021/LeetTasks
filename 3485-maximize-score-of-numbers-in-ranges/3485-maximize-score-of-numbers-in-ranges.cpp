@@ -1,9 +1,9 @@
 class Solution {
 public:
     int ans = 0;
-    bool T(int mid, vector<int>&Start, int d) {
+    bool T(int mid, vector<int>start, int d) {
         //[0,3,6]
-        vector<int>start= Start;
+        // vector<int>start= Start;
 int n = start.size(); int mini = INT_MAX; bool check = 1; //check kro
         for (int i=1; i<n; i++){
             if(start[i]-start[i-1]>=mid){
