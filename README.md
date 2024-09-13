@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/codershiv2021/LeetTasks/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/codershiv2021/LeetTasks/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/codershiv2021/LeetTasks/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codershiv2021/LeetTasks/tree/master/0160-intersection-of-two-linked-lists) |
@@ -140,6 +141,7 @@
 | [0042-trapping-rain-water](https://github.com/codershiv2021/LeetTasks/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/codershiv2021/LeetTasks/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/codershiv2021/LeetTasks/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/codershiv2021/LeetTasks/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/codershiv2021/LeetTasks/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/codershiv2021/LeetTasks/tree/master/0064-minimum-path-sum) |
@@ -170,6 +172,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codershiv2021/LeetTasks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/codershiv2021/LeetTasks/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/codershiv2021/LeetTasks/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/codershiv2021/LeetTasks/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/codershiv2021/LeetTasks/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/codershiv2021/LeetTasks/tree/master/0131-palindrome-partitioning) |
@@ -294,6 +297,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/codershiv2021/LeetTasks/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/codershiv2021/LeetTasks/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/codershiv2021/LeetTasks/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/codershiv2021/LeetTasks/tree/master/0347-top-k-frequent-elements) |
