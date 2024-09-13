@@ -377,4 +377,8 @@
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/codershiv2021/LeetTasks/tree/master/1753-path-with-minimum-effort) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/codershiv2021/LeetTasks/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
