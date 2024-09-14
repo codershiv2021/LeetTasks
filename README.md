@@ -388,5 +388,6 @@
 | [1161-project-employees-i](https://github.com/codershiv2021/LeetTasks/tree/master/1161-project-employees-i) |
 | [1415-students-and-examinations](https://github.com/codershiv2021/LeetTasks/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codershiv2021/LeetTasks/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/codershiv2021/LeetTasks/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/codershiv2021/LeetTasks/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
